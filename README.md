@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou Matheus 👋
 
-<!--
-**sknpz/sknpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de ADS | UNIPAR 3º Semestre
+- 💻 Aprendendo programação | Python, Java e Banco de Dados
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](matheussakuno2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakuno/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sknpz&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sknpz&show_icons=true&theme=dark)
