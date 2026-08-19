@@ -8,6 +8,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](matheussakuno2007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakuno/)
 
-![Top Langs](./profile/top-langs.svg)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sknpz&layout=compact&theme=dark)
 
-![GitHub Stats](./profile/stats.svg)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sknpz&show_icons=true&theme=dark)
