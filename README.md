@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus 👋
 
-- 🎓 Estudante de ADS | UNIPAR 3º Semestre
+- 🎓 Estudante de ADS | UNIPAR 4º Semestre
 - 💻 Aprendendo programação | Python, Java e Banco de Dados
 
 
